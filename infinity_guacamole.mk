@@ -31,3 +31,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=OnePlus7Pro \
     SystemDevice=OnePlus7Pro \
     SystemName=OnePlus7Pro
+
+# Project Infinity X stuff
+INFINITY_MAINTAINER := "yonekome"
+WITH_GAPPS := true
