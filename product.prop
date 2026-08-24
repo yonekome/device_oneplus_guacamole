@@ -10,3 +10,8 @@ ro.com.baidu.input.pad_port_r=14
 ro.com.baidu.input.pad_land_l=19
 ro.com.baidu.input.pad_land_r=19
 ro.com.baidu.input.pad_land_b=10
+
+# Project Infinity X
+ro.product.marketname=OnePlus 7 Pro
+ro.infinity.soc=Snapdragon 855
+ro.infinity.camera=ⓊⓌ16MP + Ⓦ48MP + Ⓣ8MP / 16MP
