@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_guacamole.mk
+    $(LOCAL_DIR)/infinity_guacamole.mk
+
+COMMON_LUNCH_CHOICES := \
+    infinity_nabu-user \
+    infinity_nabu-userdebug \
+    infinity_nabu-eng
